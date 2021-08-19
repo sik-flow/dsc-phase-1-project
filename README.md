@@ -1,6 +1,6 @@
-# Phase 1 Project
+ Phase 1 Project
 
-## Problem
+### Problem
 
 ## Data
 
@@ -8,3 +8,9 @@
 
 ## Visualizations
 ![scatter plot](images/scatterplot.png)
+
+> This is a blockquote 
+
+`import pandas as pd`
+
+![microsoft logo](images/mslogo.jpeg)
